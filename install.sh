@@ -80,5 +80,3 @@ echo '----------Tests have finished, all terminals can be closed now--------'
 echo 'havge a nice one '
 echo '------------------ rebooting system to make changes ----------------- '
 reboot 
-
-
